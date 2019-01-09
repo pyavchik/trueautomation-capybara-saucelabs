@@ -2,7 +2,7 @@
 
 You must have: <br>
 installed TrueAutomation client <br>
-account at www.browserstack.com
+account at saucelabs.com
 
 ## How to run test: 
 
